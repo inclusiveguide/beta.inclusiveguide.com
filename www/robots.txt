@@ -1,0 +1,15 @@
+Sitemap: https://www.inclusivejourneys.com/sitemap.xml
+
+User-agent: NerdyBot
+Disallow: /
+
+User-agent: *
+Disallow: /ajax/
+Disallow: /apps/
+Disallow: /https://www.inclusivejourneys.com/uploads/6/4/4/4/64447895/inclusive_journeys_donor_packages_-_2020.pdf
+Disallow: /about.html
+Disallow: /sign-up.html
+Disallow: /green-book-project.html
+Disallow: /https://www.gofundme.com/f/digital-green-book-website
+Disallow: /donate.html
+Disallow: /grantwritersclub.html
